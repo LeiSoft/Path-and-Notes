@@ -1,0 +1,44 @@
+
+##学Java必备教程，基础在手，入门无忧，
+Java零基础：Java零基础教程视频（适合Java 0基础，Java初学入门）
+数据结构与算法：
+【动力节点】数据结构与算法_适合零基础学习数据结构与算法
+JavaSE项目：动力节点Java零基础项目《图书管理系统》-Java项目实战训练
+老杜MySQL：MySQL基础入门到精通视频教程-MySQL数据库实战（内含MySQL34道面试题）
+老杜JDBC：JDBC从入门到精通视频教程-JDBC实战精讲
+老杜前端：https://space.bilibili.com/76542346/channel/seriesdetail?sid=2200616
+JavaWeb：动力节点最新JavaWeb视频教程,javaweb零基础入门到精通IDEA版
+
+##Java程序员必会的前端框架
+Ajax：动力节点最新Ajax教程-快速搞定ajax
+jQuery：jQuery入门到精通全套完整版-Web前端jQuery初学者零基础学习必备
+
+##Java框架-企业开发必会技能
+Maven入门：动力节点王鹤Maven教程-玩转Maven系列之Maven入门实战
+Linux：Linux从入门到精通视频教程全套完整版（适合Linux入门、初学Linux小白）
+Mybatis：动力节点2022最新Mybatis框架教程-快速搞定MyBatis框架
+Spring：动力节点2022最新spring框架教程-spring从入门到实战
+SpringMVC：动力节点SpringMVC框架教程2022最新版_四天快速搞定SpringMVC框架
+SSM框架项目：动力节点SSM框架项目实战|Spring+Mybatis+Springmvc框架项目实战整合-【CRM客户管理系统】
+
+##互联网前沿技术-高薪良品
+Dubbo：动力节点Dubbo教程(2020最新版)Dubbo项目实战
+Redis：Redis实战精讲-13小时彻底搞定Redis
+Maven进阶：动力节点Maven教程-玩转Maven系列之Maven进阶实战
+SpringBoot：动力节点springboot视频教程-初学spring boot必备教程-springboot最新完整版
+SpringBoot进阶【选学，无工作经验禁止入内】
+急速开发框架SpringBoot 2.X版-springboot核心思想-springboot源码分析--springboot深入浅出
+Nginx：Nginx实战视频教程-Nginx应用实战
+SpringSession：SpringSession-全网最细的SpringSession教程-springsession实战
+FastDFS：FastDFS实战视频教程-分布式文件系统FastDFS详解-FastDFS从基础到集群实践
+RabbitMQ：RabbitMQ实战视频教程-极速掌握消息中间件RabbitMQ
+SpringCloud：最新Springcloud教程-从零深入Springcloud【实战解读Springcloud】
+SpringCloudAlibaba：SpringCloud Alibaba从入门到精通教程/SpringCloud从入门到精通教程/一站式微服务解决方案SpringCloud Alibaba
+Docker：Docker实战精讲-docker使用快速入门教程【完整版】
+Kubernetes/K8S：零开始部署k8s集群教程Kubernetes实战精讲
+MySQL集群：MySQL数据库企业级集群项目实战-MySQL集群实战精讲
+MyCat：Mycat之读写分离与分库分表
+Shiro：Shiro教程-Apache Shiro安全框架实战
+
+##高薪必备互联网分布式项目
+动力商城项目：Java项目-互联网大型电商项目实战教程

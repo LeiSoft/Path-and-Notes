@@ -1,0 +1,19 @@
+后端路线
+javase→数据结构→计组计网操作系统→javaweb→mysql→
+
+mybatis→spring5→springmvc→mybatisplus及SSM框架项目→
+elementui→vue及ajax→SSM+vue+ui项目
+→spring boot2→spring security→maven
+→开发规范及设计模式（阿里开发手册文档）→git及github→
+Linux→springboot+vue项目
+→软件工程→Redis→消息队列（RabbitMQ）→Nginx→Netty
+→Dubbo→springcloud
+→Docker→CI/CD
+
+若时间充裕则每月做一个属于自己的项目从需求分析开始（博客、商城、疫情管理系统疫情地图等）之后部署到服务器上
+
+数据结构每月复习三次（每次一小天文档+leetcode）
+
+资源来源：B站动力节点及尚硅谷1.25到2倍速边敲码边连，定期在typora中复习笔记以及复习相关文档（下载后的以及官网的）
+
+换手机后导入新手机备忘录以及参考.md转入新电脑，此外家人生日同时导入备忘录
