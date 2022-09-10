@@ -5677,22 +5677,7 @@ public class ImperialCourtTest {
 }
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
+
 
 TIP
 
@@ -5726,15 +5711,7 @@ TIP
 </bean>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
+
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse02.html#_2扫描-mapper-接口)②扫描 Mapper 接口
 
@@ -5781,17 +5758,7 @@ public void testEmpMapper() {
 <context:component-scan base-package="com.atguigu.imperial.court.service"/>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse03.html#_2、注解写法)2、注解写法
 
@@ -5836,14 +5803,7 @@ TIP
 </listener>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
+
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse04.html#_2配置-dispatcherservlet)②配置 DispatcherServlet
 
@@ -5864,20 +5824,7 @@ TIP
 </servlet-mapping>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
+
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse04.html#_3配置-characterencodingfilter)③配置 CharacterEncodingFilter
 
@@ -5905,27 +5852,7 @@ TIP
 </filter-mapping>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
+
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse04.html#_4配置-hiddenhttpmethodfilter)④配置 HiddenHttpMethodFilter
 
@@ -5941,15 +5868,7 @@ TIP
 </filter-mapping>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
+
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse04.html#_3、显示首页)3、显示首页
 
@@ -5965,11 +5884,7 @@ TIP
 <mvc:default-servlet-handler />
 ```
 
-1
-2
-3
-4
-5
+
 
 #### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse04.html#_2-配置视图解析相关)[2]配置视图解析相关
 
@@ -5993,23 +5908,7 @@ TIP
 </bean>
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+
 
 **注意**：需要我们自己手动创建 templates 目录。
 
@@ -6072,7 +5971,7 @@ TIP
 ![images](https://heavy_code_industry.gitee.io/code_heavy_industry/assets/img/img013.e816d73b.png)
 
 ```text
-public class LoginFailedException extends RuntimeException {
+ublic class LoginFailedException extends RuntimeException {
 
     public LoginFailedException() {
     }
@@ -6131,13 +6030,7 @@ public class ImperialCourtConst {
 }
 ```
 
-1
-2
-3
-4
-5
-6
-7
+
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse05.html#_3、md5-工具)3、MD5 工具
 
@@ -6189,49 +6082,7 @@ public class MD5Util {
 }
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
+
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse05.html#_4、日志配置文件)4、日志配置文件
 
@@ -6310,41 +6161,7 @@ public class AuthController {
 }
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
+
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse06.html#_2、empservice)2、EmpService
 
@@ -6385,38 +6202,7 @@ public class EmpServiceImpl implements EmpService {
 }
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
+
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter07/verse06.html#_3、target-html)3、target.html
 
@@ -6537,12 +6323,7 @@ public class ImperialCourtConst {
 }
 ```
 
-1
-2
-3
-4
-5
-6
+
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter08/verse03.html#_2字符串加密工具类)②字符串加密工具类
 
@@ -6592,49 +6373,7 @@ public class MD5Util {
 }
 ```
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
+
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter08/verse03.html#_3登录失败异常)③登录失败异常
 
@@ -6663,26 +6402,6 @@ public class LoginFailedException extends RuntimeException {
 ```
 
 1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
 
 ### [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter08/verse03.html#_4远程方法调用统一返回结果)④远程方法调用统一返回结果
 
@@ -6777,92 +6496,6 @@ public class ResultEntity<T> {
 ```
 
 1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
 
 ## [#](https://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter08/verse03.html#_2、demo09-base-entity)2、demo09-base-entity
 
